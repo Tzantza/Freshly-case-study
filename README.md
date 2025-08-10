@@ -22,7 +22,9 @@ Los datos proporcionados están almacenados en BigQuery bajo el proyecto `freshl
 
 - `freshly_data.INFORMACION_PRODUCTOS`: información detallada de productos vinculada a un archivo .xlsx en Drive  
 - `freshly_data.INFORMACION_PEDIDOS`: datos de pedidos, clientes y mercados vinculados a un archivo .xlsx en Drive  
-- `freshly_data.venta_sku_2024`: datos sobre ventas vinculados a un archivo .csv en Drive  
+- `freshly_data.venta_sku_2024`: datos sobre ventas vinculados a un archivo .csv en Drive
+
+➔Para acceder a la base de datos [LINK](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sfreshly-case-study-468308!2sfreshly_data)
 
 ---
 
