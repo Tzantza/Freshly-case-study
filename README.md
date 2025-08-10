@@ -59,7 +59,7 @@ Los dashboards cuentan con filtros para consultar por fecha, categoría, SKU, cl
 
 - Se integraron múltiples fuentes de datos (productos, pedidos, ventas) para un análisis completo y facilmente actualizable.
 - El proyecto está desarrollado para facilitar la toma de decisiones en Freshly Cosmetics, con dashboards interactivos y análisis detallados.
-- <u>Todo el contenido y los recursos compartidos en este repositorio son privados y están accesibles únicamente para los reclutadores de Freshly Cosmetics con los permisos adecuados.</u> 
+- **Todo el contenido y los recursos compartidos en este repositorio son privados y están accesibles únicamente para los reclutadores de Freshly Cosmetics con los permisos adecuados.** 
 - Para consultas o más información, contacta conmigo en [fpiqueraspons@gmail.com].
 
 ---
